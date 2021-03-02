@@ -1,5 +1,5 @@
 # PartiallySharedDMF
-
+    <li>
       <div id="bib_huang2020partially" class="bibtex noshow">
          <pre>
 @inproceedings{huang2020partially,
@@ -11,3 +11,4 @@
   organization={IEEE}
 }</pre>
       </div>
+    </li>
